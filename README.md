@@ -1,13 +1,14 @@
-##General Info
+## General Info
 
 A java script that generates a funny sentence from a collection of random words.
 
-##Technologies
+## Technologies
 
-*Java Script
-*Node
+* Java Script
+* Node
 
-##Setup
-
-$ cd ../folder
+## Setup
+~~~
+$ cd ../folder 
 $ node script.js
+~~~
